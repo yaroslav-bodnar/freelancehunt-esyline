@@ -1,0 +1,12 @@
+node_modules/
+build/
+sass/
+scss/
+*.sass
+*.scss
+gulpfile.js
+package.json
+package-lock.json
+robots.txt
+*.docx
+*.psd
